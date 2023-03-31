@@ -1,0 +1,66 @@
+[
+    {
+        "empId" : "001",
+        "empName" : "Darshan",
+        "empSal" : "6 LPA",
+        "empDesig" : "TopHero",
+        "empGender" : "Male",
+        "empEdu" : "BE MECH",
+        "empExp" : "10 years",
+        "empCompanies" : {
+            "previous" : "Kranti",
+            "current" : "Twinkle"
+        },
+        "empImg" : "https://i.pinimg.com/474x/0c/a9/bd/0ca9bd5a8b6949acdaeb12aa266b5f99.jpg",
+        "empSkills" : ["Core JAVA","WEB TECH","SQL","REACT"],
+        "empCity" : "Mysore"
+    },
+    {
+        "empId" : "002",
+        "empName" : "Rachitha",
+        "empSal" : "8 LPA",
+        "empDesig" : "Actreess",
+        "empGender" : "Female",
+        "empEdu" : "BE CS",
+        "empExp" : "5 years",
+        "empCompanies" : {
+            "previous" : "BulBul",
+            "current" : "Twinkle"
+        },
+        "empImg" : "https://i0.wp.com/filmbunch.in/wp-content/uploads/2021/04/rachita-ram.png?fit=746%2C580&ssl=1",
+        "empSkills" : ["Core JAVA","WEB TECH","SQL","REACT"],
+        "empCity" : "Mangalore"
+    },
+    {
+        "empId" : "003",
+        "empName" : "Puneeth",
+        "empSal" : "10 LPA",
+        "empDesig" : "Hero",
+        "empGender" : "Male",
+        "empEdu" : "BE CIVIL",
+        "empExp" : "15 years",
+        "empCompanies" : {
+            "previous" : "Rajkumara",
+            "current" : "Twinkle"
+        },
+        "empImg" : "https://i.pinimg.com/736x/b7/01/fe/b701fe3dfd3d8a34bff9224187a1180e.jpg",
+        "empSkills" : ["Core JAVA","WEB TECH","SQL","REACT"],
+        "empCity" : "Bangalore"
+    },
+    {
+        "empId" : "004",
+        "empName" : "Leela",
+        "empSal" : "15 LPA",
+        "empDesig" : "TopActress",
+        "empGender" : "Female",
+        "empEdu" : "Arts",
+        "empExp" : "2 years",
+        "empCompanies" : {
+            "previous" : "Films",
+            "current" : "Twinkle"
+        },
+        "empImg" : "https://www.filmibeat.com/img/popcorn/profile_photos/sree-leela-20191016105248-40142.jpg",
+        "empSkills" : ["Core JAVA","WEB TECH","SQL","REACT"],
+        "empCity" : "Hassan"
+    }
+]
